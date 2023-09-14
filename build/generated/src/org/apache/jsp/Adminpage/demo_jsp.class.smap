@@ -1,0 +1,14 @@
+SMAP
+demo_jsp.java
+JSP
+*S JSP
+*F
++ 0 demo.jsp
+Adminpage/demo.jsp
+*L
+5,19:49
+24,9:69
+32,10:78
+42,6:89
+47,4:95
+*E
